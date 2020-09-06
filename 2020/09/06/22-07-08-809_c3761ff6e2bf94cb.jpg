@@ -1,0 +1,1115 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" id="typepad-standard" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+	<!-- head-common -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="generator" content="http://www.typepad.com/" />
+	<meta name="keywords" content="AutoCAD,Autodesk,CAD,Inventor,Design,DWG,drawing, BIM, 3D Printing, Revit, Virtual Reality Cloud" />
+	<meta name="description" content="Lynn Allen shares AutoCAD tips as well as forward thinking Design Industry information and vision." />
+    <link rel="canonical" href="https://lynn.blogs.com/lynn_allens_blog/" />
+
+
+
+        <link rel="stylesheet" href="https://lynn.blogs.com/lynn_allens_blog/styles.css?v=6" type="text/css" media="screen" />
+        <link rel="stylesheet" href="https://static.typepad.com/.shared/themes/common/print.css" type="text/css" media="print" />
+
+<link rel="stylesheet" href="https://static.typepad.com/.shared/css/featherlight-gallery.css">
+
+<!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+
+	<link rel="alternate" type="application/atom+xml" title="Posts on 'Lynn Allen's Blog' (Atom)" href="https://lynn.blogs.com/lynn_allens_blog/atom.xml" />
+	<link rel="alternate" type="application/rss+xml" title="Posts on 'Lynn Allen's Blog' (RSS 1.0)" href="https://lynn.blogs.com/lynn_allens_blog/index.rdf" />
+	<link rel="alternate" type="application/rss+xml" title="Posts on 'Lynn Allen's Blog' (RSS 2.0)" href="https://lynn.blogs.com/lynn_allens_blog/rss.xml" />
+	<script type="text/javascript">
+		var TPApp = {};
+		TPApp.app_uri = "https://www.typepad.com/";
+	</script>
+	<script type="text/javascript" src="https://static.typepad.com/.shared/js/yui/yahoo-dom-event.js,/js/app/thumbnail-gallery-min.js,/js/app/flyouts-min.js"></script>
+
+
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-225723-36', 'auto', {'name': 'Typepad'}, {'allowLinker': true} );  // Separate tracker for Typepad.
+ga('Typepad.require', 'linker');
+ga('Typepad.linker:autoLink', ['none']);
+ga('Typepad.set', 'dimension1', '6a00d83420027e53ef00d8345569ea69e2');
+ga('Typepad.set', 'dimension2', 'index');
+ga('Typepad.send', 'pageview');
+</script>
+
+
+
+<meta property="og:title" content="Lynn Allen's Blog" />
+<meta property="og:site_name" content="Lynn Allen's Blog" />
+<meta property="og:type" content="blog" />
+<meta property="og:url" content="https://lynn.blogs.com/lynn_allens_blog/" />
+<meta property="og:description" content="Global Technology Evangelist
+(who started with CAD)" />
+<meta property="fb:admins" content="" />
+<meta property="og:image" content="https://up6.typepad.com/6a00d83420027e53ef00e551d45dab8834-220si" />
+
+
+
+	<title>Lynn Allen's Blog</title>
+	<link rel="openid.server" href="https://www.typepad.com/services/openid/server" />
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.typepad.com/services/rsd/6a00d83420027e53ef00d8345569ea69e2" />
+			<link rel="meta" type="application/rdf+xml" title="FOAF" href="https://lynn.blogs.com/foaf.rdf" />
+	
+        
+</head>
+
+
+
+<body class="layout-three-column index">
+	
+	<div id="container">
+		<div id="container-inner" class="pkg">
+			
+
+
+<a id="home"></a>
+   
+
+<!-- banner -->
+<div id="banner">
+	<div id="banner-inner" class="pkg">
+		
+		<h1 id="banner-header"><a href="https://lynn.blogs.com/lynn_allens_blog/" accesskey="1">Lynn Allen's Blog</a></h1>
+		<h2 id="banner-description">
+			Global Technology Evangelist
+(who started with CAD)
+		</h2>
+	</div>
+</div>
+
+
+<div id="nav">
+	<div id="nav-inner">
+		<ul class="nav-list pkg">
+			<li class="nav-list-item"><a href="https://lynn.blogs.com/lynn_allens_blog/">Home</a></li>
+			<li class="nav-list-item"><a href="https://lynn.blogs.com/lynn_allens_blog/archives.html">Archives</a></li>
+			<li class="nav-list-item"><a href="http://profile.typepad.com/lynnblog">Profile</a></li>
+			<li class="last-nav-list-item nav-list-item"><a href="https://lynn.blogs.com/lynn_allens_blog/atom.xml">Subscribe</a></li>
+		</ul>
+	</div>
+</div>
+
+
+
+
+			<div id="pagebody">
+				<div id="pagebody-inner" class="pkg">
+					<div id="alpha">
+						<div id="alpha-inner" class="pkg">
+							<!-- sidebar1 -->
+
+
+<div class="module-sidebarimage module">
+	<div class="module-content">
+	
+<a class="asset-img-link" href="https://lynn.blogs.com/.a/6a00d83420027e53ef01b8d2e6ac41970c-popup" onclick="window.open( this.href, '_blank', 'width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0' ); return false"><img class="asset  sb-image at-xid-6a00d83420027e53ef01b8d2e6ac41970c img-responsive" style="max-width: 100%; display: block; margin-left: auto; margin-right: auto;" alt="Lynn Allen" title="Lynn Allen" src="https://lynn.blogs.com/.a/6a00d83420027e53ef01b8d2e6ac41970c-300wi" /></a>	
+	</div>
+</div>
+<!-- list_inlcude.tt  -->
+<div id="speaking_engagements" class="module-typelist module">
+<h2 class="module-header">Speaking Engagements</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a  title="Join me for BIM in the Era of Connection"href="http://events.r20.constantcontact.com/register/event?oeidk=a07ef8o2k2087b76b1c&amp;llr=48msracab">April 24 - Miami, FL - DDSCAD</a></li>
+							<li class="module-list-item"><a  title="Join me for a great day of classes, learning and networking!"href="https://synergisu.wordpress.com/">May 17 - Bethlehem, PA, Synergis University</a></li>
+							<li class="module-list-item"><a  title="Join me for 4 days of learning and networking!"href="http://www.cadcompany.nl/evenementen/open-air/">May 28-June 1, Amsterdam, NL - Open Air</a></li>
+							<li class="module-list-item">May 8 - Washington DC, DLT</li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="want_lynn_allen_to_speak_at_your_company_or_event" class="module-typelist module">
+<h2 class="module-header">Want Lynn Allen to speak at your company or event?</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a href="/cdn-cgi/l/email-protection#fc90859292d29d90909992bc9d89889398998f97d29f9391">Contact Lynn Allen</a><br />Send an email for a list of presentations and more info. </li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="check_out_my_cadalyst_tips_and_tricks_videos" class="module-typelist module">
+<h2 class="module-header">Check out my Cadalyst Tips and Tricks Videos</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a href="http://www.cadalyst.com/video" >Cadalyst Tips and Tricks Videos</a><br />Check out my latest AutoCAD video tip!</li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="my_favorite_websites" class="module-typelist module">
+<h2 class="module-header">My Favorite Websites</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a title="Check out my Cadalyst video tip!" href="http://www.cadalyst.com" >Cadalyst Magazine</a></li>
+							<li class="module-list-item"><a title="" href="http://discussion.autodesk.com" >Autodesk Discussion Groups</a></li>
+							<li class="module-list-item"><a title="" href="http://www.tenlinks.com/" >TenLinks.com</a></li>
+							<li class="module-list-item"><a title="" href="http://www.augi.com/login/welcome.asp" >AUGI</a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- list_inlcude.tt  -->
+<div id="autocad_tips_and_tricks_booklets" class="module-typelist module">
+<h2 class="module-header">AutoCAD Tips and Tricks Booklets</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a href="https://www.autodesk.com/campaigns/autocad_tips_and_tricks" >AutoCAD 2018 Tips and Tricks Booklet </a><br />Check out my last AutoCAD Tips and Tricks booklet!</li>
+							<li class="module-list-item"><a href="https://damassets.autodesk.net/content/dam/autodesk/www/subhub/AutoCAD2017-TipsnTricks-FINAL.pdf" >AutoCAD 2017 Tips and Tricks Booklet</a><br />Download AutoCAD 2017 Tips and Tricks Booklet</li>
+							<li class="module-list-item"><a href="&lt;a href=&quot;http://lynn.blogs.com/autocad-2016-tips-and-tricks-booklet-1.pdf&quot;&gt;Download autocad-2016-tips-and-tricks-booklet-1.pdf (7753.1K)&lt;/a&gt;" >AutoCAD 2016 Tips and Tricks Booklet </a><br />Download my AutoCAD 2016 Tips and Tricks Booklet!</li>
+							<li class="module-list-item"><a href="https://lynn.blogs.com/AutoCAD 2015 Tips and Tricks Booklet.pdf">AutoCAD 2015 Tips and Tricks Booklet</a><br />Check out the new features in AutoCAD 2015!</li>
+							<li class="module-list-item"><a href="https://lynn.blogs.com/ACAD2014_TipsnTricks_final.pdf">AutoCAD 2014 Tips and Tricks Booklet</a><br />Download my AutoCAD 2014 Tips and Tricks booklet
+
+</li>
+							<li class="module-list-item"><a href="https://lynn.blogs.com/AutoCAD%202013%20Tips%20and%20Tricks.pdf">AutoCAD 2013 Tips and Tricks booklet</a><br />Download AutoCAD 2013 Tips and Tricks booklet</li>
+							<li class="module-list-item"><a href="http://autocad.autodesk.com/ama/orig/ACAD12_tips_online.pdf" >AutoCAD 2012 Tips and Tricks booklet</a><br />Don't miss Lynn's latest tips and tricks booklet!</li>
+							<li class="module-list-item"><a href="http://autocad.autodesk.com/?nd=autocad_tips_tutorials_detail&amp;adsk_tip_id=1003&amp;jid=2036" >AutoCAD 2011 Tips and Tricks Booklet (pdf)</a><br /></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<!-- custom_code.tt --><div class="module-custom_html module">
+    <div class="module-content">
+<a class="twitter-timeline" href="https://twitter.com/Lynn_Allen" data-widget-id="351767846147223552">Tweets by @Lynn_Allen</a> <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    </div>
+</div>
+<!-- end custom_code.tt -->
+<!-- list_inlcude.tt  -->
+<div id="rss_feed" class="module-typelist module">
+<h2 class="module-header">RSS Feed</h2>
+	<div class="typelist-plain module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><div class="typelist-note"><a href="https://feeds.feedburner.com/typepad/lynnblog/lynn_allens_blog"><img src="https://lynn.blogs.com/feed.png" border="0" align="absmiddle">  Subscribe</a>
+
+<!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
+<script language="javascript">
+var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
+var hbx=_hbEvent("pv");hbx.vpc="HBX0103u";hbx.gn="hb.autodesk.com";
+hbx.acct="DM5204045DDF94EN3";//ACCOUNT NUMBER(S)
+hbx.pn="PUT+PAGE+NAME+HERE";//PAGE NAME(S)
+hbx.mlc="/Blogs/Lynn+Allen";//MULTI-LEVEL CONTENT CATEGORY
+hbx.pndef="title";//DEFAULT PAGE NAME
+hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
+hbx.lt="auto";
+</script><script language="javascript1.1" defer src="https://www.autodesk.com/hbe/hbx.js"></script>
+<!--END WEBSIDESTORY CODE-->
+
+<!--Google Analytics CODE-->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTrackerBlog = _gat._getTracker("UA-4460969-19");
+pageTrackerBlog._setDomainName("blogs.com");
+pageTrackerBlog._initData();
+pageTrackerBlog._trackPageview();
+
+var pageTrackerRU = _gat._getTracker("UA-4460969-1");
+pageTrackerRU._setDomainName("none");
+pageTrackerRU._initData();
+pageTrackerRU._trackPageview();
+
+var pageTrackerCom = _gat._getTracker("UA-2967772-45");
+pageTrackerCom._setDomainName("none");
+pageTrackerCom._initData();
+pageTrackerCom._trackPageview();
+</script>
+<!--Google Analytics CODE-->
+<!-- SiteCatalyst code version: H.15.1.
+Copyright 1997-2008 Omniture, Inc. More info available at http://www.omniture.com -->
+<script type="text/javascript">
+wa = new Object;
+</script>
+<script language="JavaScript" type="text/javascript" src="https://images.autodesk.com/metrics/s_code_bcd.js"></script>
+<script language="JavaScript" type="text/javascript">
+/*
+* SiteCatalyst variables can be valued below; for testing, let's use these values...
+*/
+wa.pathMain=location.pathname;
+wa.pageNameLocal=document.title;
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code);</script>
+<!-- End SiteCatalyst code version: H.15.1. --></div></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+<div class="module-search module">
+    <h2 class="module-header">Search</h2>
+    <div class="module-content">
+        <form id="search-blog" method="get" action="https://lynn.blogs.com/.services/blog/6a00d83420027e53ef00d8345569ea69e2/search" class="form-search form-inline" role="search">
+
+            <input type="search" name="filter.q" results="5" value="" />
+            <input type="submit" value="Search" />
+            
+        </form>
+    </div>
+</div>
+<!-- END Blog Search Module -->
+	<div class="module-archives module">
+		<h2 class="module-header">Recent Posts</h2>
+		<div class="module-content">
+			<ul class="module-list">
+				
+									<li class="module-list-item"><a href="https://lynn.blogs.com/lynn_allens_blog/2017/07/autocad-2018-tips-and-tricks-booklet-is-here.html">AutoCAD 2018 Tips and Tricks Booklet is here!</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://lynn.blogs.com/lynn_allens_blog/2017/01/a-2017-tip-on-importing-layers-from-one-autocad-drawing-to-another.html">A 2017 Tip on Importing Layers from One AutoCAD Drawing to Another</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://lynn.blogs.com/lynn_allens_blog/2016/06/my-autocad-2017-tips-and-tricks-booklets-is-here.html">My AutoCAD 2017 Tips and Tricks booklets is here!</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://lynn.blogs.com/lynn_allens_blog/2016/04/taking-control-of-the-3dorbit-command-in-autocad.html">Taking control of the 3DORBIT command in AutoCAD</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://lynn.blogs.com/lynn_allens_blog/2016/03/a-st-patricks-day-tip-on-squaring-off-corners-in-autocad-.html">A St. Patrick's Day Tip on Squaring Off Corners in AutoCAD </a></li>
+					
+				
+									<li class="module-list-item"><a href="https://lynn.blogs.com/lynn_allens_blog/2016/02/automatically-repeating-commands-in-autocad.html">Automatically repeating commands in AutoCAD</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://lynn.blogs.com/lynn_allens_blog/2016/01/a-new-year-and-a-new-autocad-tip-for-adding-your-own-panel.html">A New Year and a New AutoCAD Tip for Adding Your Own Panel to the Ribbon</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://lynn.blogs.com/lynn_allens_blog/2015/12/happy-holidays-everyone.html">Happy Holidays Everyone!</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://lynn.blogs.com/lynn_allens_blog/2015/11/a-thanksgiving-tip-on-cleaning-up-your-lines-with-the-top-secret-change-command.html">A Thanksgiving Tip on Cleaning up your lines with the Top Secret CHANGE command!</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://lynn.blogs.com/lynn_allens_blog/2015/10/3-ways-to-put-a-frame-around-your-text-in-autocad.html">3 Ways to Put a Frame Around Your Text in AutoCAD</a></li>
+					
+				
+			</ul>
+		</div>
+	</div>
+
+
+
+						</div>
+					</div>
+					<div id="beta">
+						<div id="beta-inner" class="pkg">
+							
+
+
+
+
+
+<!-- CAROUSEL POSTS -->
+
+
+<!-- entry list sticky -->
+
+
+<!-- REGULAR POSTS -->
+
+
+
+
+
+
+    <h2 class="date-header">July 17, 2017</h2>
+
+	<div class="entry-author-lynn_allen entry-type-post entry" id="entry-6a00d83420027e53ef01bb09afe158970d">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://lynn.blogs.com/lynn_allens_blog/2017/07/autocad-2018-tips-and-tricks-booklet-is-here.html">AutoCAD 2018 Tips and Tricks Booklet is here!</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>Have you been on the edge of your seat waiting?&#0160; Well wait no more (and I really hope you weren&#39;t on the edge of your seat because that just sounds so uncomfortable).</p>
+<p>Now you can download my latest <a href="https://www.autodesk.com/campaigns/autocad_tips_and_tricks">AutoCAD Tips and Tricks booklet</a> filled with all the great features in AutoCAD 2018!&#0160; And you&#39;ll find all the great features from AutoCAD 2017 hiding in there as well (a special bonus just for you...well...ok...for everyone.)</p>
+<p><span style="font-size: 15pt;"><a href="https://www.autodesk.com/campaigns/autocad_tips_and_tricks" rel="noopener" target="_blank" title="AutoCAD 2018 Tips and Tricks Booklet"><strong>Download here:</strong></a></span></p>
+<p>&#0160;</p>
+<p><a class="asset-img-link" href="https://lynn.blogs.com/.a/6a00d83420027e53ef01b7c90ca840970b-pi"><img alt="Tips adn Tricks 2018" class="asset  asset-image at-xid-6a00d83420027e53ef01b7c90ca840970b img-responsive" src="https://lynn.blogs.com/.a/6a00d83420027e53ef01b7c90ca840970b-500wi" style="margin-right: auto; margin-left: auto; display: block;" title="Tips adn Tricks 2018" /></a></p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 02:57 PM </span> <span class="separator">|</span> <a class="permalink" href="https://lynn.blogs.com/lynn_allens_blog/2017/07/autocad-2018-tips-and-tricks-booklet-is-here.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://lynn.blogs.com/lynn_allens_blog/2017/07/autocad-2018-tips-and-tricks-booklet-is-here.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00d83420027e53ef01bb09afe158970d'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    <h2 class="date-header">January 09, 2017</h2>
+
+	<div class="entry-author-lynn_allen entry-type-post entry" id="entry-6a00d83420027e53ef01b8d24f939d970c">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://lynn.blogs.com/lynn_allens_blog/2017/01/a-2017-tip-on-importing-layers-from-one-autocad-drawing-to-another.html">A 2017 Tip on Importing Layers from One AutoCAD Drawing to Another</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>Happy New Year!&#0160; I&#39;m crossing my fingers that 2017 will be a great year for you and for me (are you in?).&#0160; Let me help you kick it off by sharing a tip that will enable you to quickly bring layers from one drawing into another!</p>
+<p>Note:&#0160; You can also use these techniques to bring in dimension styles, text styles, blocks, etc!</p>
+<p>&#0160;Check out my <a href="http://www.cadalyst.com/cad/autocad/insert-specific-layers-another-autocad-drawing-31523" title="Cadalyst video">Cadalyst </a>video below for the super speedy technique (and just let me apologize in advance for my gravely voice - just getting over a cold!)</p>
+<p>&#0160;</p>
+<p><iframe allowfullscreen="" frameborder="0" height="300" src="https://www.youtube.com/embed/be_Ws0V-FxI" width="450"></iframe></p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 10:31 AM </span> <span class="separator">|</span> <a class="permalink" href="https://lynn.blogs.com/lynn_allens_blog/2017/01/a-2017-tip-on-importing-layers-from-one-autocad-drawing-to-another.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://lynn.blogs.com/lynn_allens_blog/2017/01/a-2017-tip-on-importing-layers-from-one-autocad-drawing-to-another.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00d83420027e53ef01b8d24f939d970c'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    <h2 class="date-header">June 10, 2016</h2>
+
+	<div class="entry-author-lynn_allen entry-type-post entry" id="entry-6a00d83420027e53ef01bb090f3484970d">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://lynn.blogs.com/lynn_allens_blog/2016/06/my-autocad-2017-tips-and-tricks-booklets-is-here.html">My AutoCAD 2017 Tips and Tricks booklets is here!</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>I know you want it...how can you resist?&#0160; Nearly all the latest features in AutoCAD 2017 in one convenient booklet.&#0160; What a great Father&#39;s Day Present!&#0160; : )</p>
+<p><strong><span style="font-size: 15pt;"><a href="http://www.autodesk.com/campaigns/autocad_tips_and_tricks" title="AutoCAD 2017 Tips and Tricks">Download it here!</a></span></strong></p>
+<p>&#0160;</p>
+<p><a class="asset-img-link" href="http://www.autodesk.com/campaigns/autocad_tips_and_tricks" style="display: inline;" title="AutoCAD 2017 Tips and Tricks Booklet"><img alt="Tips and Tricks Booklet" class="asset  asset-image at-xid-6a00d83420027e53ef01bb090ef021970d img-responsive" src="https://lynn.blogs.com/.a/6a00d83420027e53ef01bb090ef021970d-320wi" title="Tips and Tricks Booklet" /></a></p>
+<p>&#0160;</p>
+<p>P.S.&#0160; AutoCAD 2016 tips are also included in this booklet!&#0160;</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 08:50 AM </span> <span class="separator">|</span> <a class="permalink" href="https://lynn.blogs.com/lynn_allens_blog/2016/06/my-autocad-2017-tips-and-tricks-booklets-is-here.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://lynn.blogs.com/lynn_allens_blog/2016/06/my-autocad-2017-tips-and-tricks-booklets-is-here.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00d83420027e53ef01bb090f3484970d'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    <h2 class="date-header">April 27, 2016</h2>
+
+	<div class="entry-author-lynn_allen entry-type-post entry" id="entry-6a00d83420027e53ef01b7c84b5e0a970b">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://lynn.blogs.com/lynn_allens_blog/2016/04/taking-control-of-the-3dorbit-command-in-autocad.html">Taking control of the 3DORBIT command in AutoCAD</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>Do you 3D? &#0160;If you do, you most assuredly are familiar with the 3DORBIT command (or at least one would hope!) &#0160;</p>
+<p>For years - AutoCAD has determined&#0160;the centroid&#0160;of the display when orbitting based on the center of the entire model. &#0160;This center doesn&#39;t always work effectively when you have objects off in one or more directions.</p>
+<p>AutoCAD 2015 introduced an option so YOU could control the centroid and consequently orbit about any part of your model you see fit! &#0160;Check out my <a href="http://www.cadalyst.com/cad/autocad/take-control-3dorbit-command-autocad-28244" title="3dORBIT">Cadalyst video</a> and take control of the 3DORBIT command for yourself!</p>
+<p>&#0160;</p>
+<p><iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/tIt5pENuYcM" width="560"></iframe></p>
+<p>Do you feel powerful&#0160;now?</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 09:02 AM </span> <span class="separator">|</span> <a class="permalink" href="https://lynn.blogs.com/lynn_allens_blog/2016/04/taking-control-of-the-3dorbit-command-in-autocad.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://lynn.blogs.com/lynn_allens_blog/2016/04/taking-control-of-the-3dorbit-command-in-autocad.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00d83420027e53ef01b7c84b5e0a970b'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    <h2 class="date-header">March 17, 2016</h2>
+
+	<div class="entry-author-lynn_allen entry-type-post entry" id="entry-6a00d83420027e53ef01bb08ca5b15970d">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://lynn.blogs.com/lynn_allens_blog/2016/03/a-st-patricks-day-tip-on-squaring-off-corners-in-autocad-.html">A St. Patrick's Day Tip on Squaring Off Corners in AutoCAD </a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>Happy St. Patrick&#39;s Day to you all! &#0160;I hope you are all wearing green today (must avoid that pesky pinching!).</p>
+<p><a class="asset-img-link" href="https://lynn.blogs.com/.a/6a00d83420027e53ef01b7c825f324970b-pi"><img alt="St Patricks" class="asset  asset-image at-xid-6a00d83420027e53ef01b7c825f324970b img-responsive" src="https://lynn.blogs.com/.a/6a00d83420027e53ef01b7c825f324970b-320wi" style="display: block; margin-left: auto; margin-right: auto;" title="St Patricks" /></a></p>
+<p>I was hoping to go out and enjoy some Guinness tonight -&#0160;but that just isn&#39;t in the cards tonight. &#0160;Maybe I&#39;ll stay home and dye my dog green (she&#39;ll love that). &#0160;</p>
+<p>I&#39;m sure you find yourself squaring off corners from time to time in your AutoCAD drawings - let&#39;s make sure you&#39;re doing this the fastest way&#0160;possible! Then you can take all the time you&#39;re saving - and have yourself a proper Irish beverage tonight!</p>
+<p>Check out my Cadalyst video:</p>
+<p>&#0160;</p>
+<p><iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/2m-4uFpRby4" width="560"></iframe></p>
+<p>And don&#39;t worry...I&#39;d never really dye my dog green! &#0160;</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 04:19 PM </span> <span class="separator">|</span> <a class="permalink" href="https://lynn.blogs.com/lynn_allens_blog/2016/03/a-st-patricks-day-tip-on-squaring-off-corners-in-autocad-.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://lynn.blogs.com/lynn_allens_blog/2016/03/a-st-patricks-day-tip-on-squaring-off-corners-in-autocad-.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00d83420027e53ef01bb08ca5b15970d'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    <h2 class="date-header">February 24, 2016</h2>
+
+	<div class="entry-author-lynn_allen entry-type-post entry" id="entry-6a00d83420027e53ef01bb08be8f1a970d">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://lynn.blogs.com/lynn_allens_blog/2016/02/automatically-repeating-commands-in-autocad.html">Automatically repeating commands in AutoCAD</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>Do you ever get tired of hitting that pesky &quot;enter&quot; key to repeat the previous command? &#0160;If so,&#0160; you should check out the handy MULTIPLE command in AutoCAD. &#0160;Run it before any command to automatically repeat it (Escape to exit). &#0160;Who wants to type out such a long command? &#0160;Put that baby on a toolbar, panel or better yet the Quick Access toolbar for speedy access!</p>
+<p>Check out my latest Cadalyst video!</p>
+<p>&#0160;</p>
+<p><iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/AWAXrDmdosE" width="560"></iframe></p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 09:15 AM </span> <span class="separator">|</span> <a class="permalink" href="https://lynn.blogs.com/lynn_allens_blog/2016/02/automatically-repeating-commands-in-autocad.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://lynn.blogs.com/lynn_allens_blog/2016/02/automatically-repeating-commands-in-autocad.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00d83420027e53ef01bb08be8f1a970d'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    <h2 class="date-header">January 21, 2016</h2>
+
+	<div class="entry-author-lynn_allen entry-type-post entry" id="entry-6a00d83420027e53ef01bb08afc238970d">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://lynn.blogs.com/lynn_allens_blog/2016/01/a-new-year-and-a-new-autocad-tip-for-adding-your-own-panel.html">A New Year and a New AutoCAD Tip for Adding Your Own Panel to the Ribbon</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>I am certainly behind on blogging! I haven&#39;t posted since the holidays! &#0160;I seem to be more of a Twitter-holic these days...so if I&#39;m late on blogging - you can get your fix by following me on twitter @Lynn_Allen</p>
+<p>&#0160;</p>
+<p><span style="font-size: 12pt;"><strong>Adding your own panel to the AutoCAD ribbon:</strong></span></p>
+<p><span style="font-size: 10pt;">You have your favorite commands - those you use all the time! &#0160;Make it easy on yourself by creating your own custom Panel filled with your most frequently used commands for speedy access. &#0160;I promise you - you won&#39;t know how you survived without it!</span></p>
+<p><span style="font-size: 10pt;">Check out my <a href="http://www.cadalyst.com/cad/autocad/add-your-own-panel-autocad-ribbon-27223" title="Create your own AutoCAD panel">Cadalyst video</a> for more info:</span></p>
+<p>&#0160;</p>
+<p><iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/eiqyuvGrN_Y" width="560"></iframe></p>
+<p>And a Happy New Year to each of you!!! &#0160;It looks like my New Year&#39;s resolution should be to blog more!</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 03:07 PM </span> <span class="separator">|</span> <a class="permalink" href="https://lynn.blogs.com/lynn_allens_blog/2016/01/a-new-year-and-a-new-autocad-tip-for-adding-your-own-panel.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://lynn.blogs.com/lynn_allens_blog/2016/01/a-new-year-and-a-new-autocad-tip-for-adding-your-own-panel.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00d83420027e53ef01bb08afc238970d'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    <h2 class="date-header">December 24, 2015</h2>
+
+	<div class="entry-author-lynn_allen entry-type-post entry" id="entry-6a00d83420027e53ef01b7c7fe7cad970b">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://lynn.blogs.com/lynn_allens_blog/2015/12/happy-holidays-everyone.html">Happy Holidays Everyone!</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>I&#39;m wishing you a wonderful holiday - full of (really) great cheer and lots of happiness! &#0160;I&#39;m looking forward to sharing another year of AutoCAD tips and Autodesk news with you!</p>
+<p><a class="asset-img-link" href="https://lynn.blogs.com/.a/6a00d83420027e53ef01b8d18850c9970c-pi"><img alt="2.6" class="asset  asset-image at-xid-6a00d83420027e53ef01b8d18850c9970c img-responsive" src="https://lynn.blogs.com/.a/6a00d83420027e53ef01b8d18850c9970c-320wi" style="display: block; margin-left: auto; margin-right: auto;" title="2.6" /></a></p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 11:23 AM </span> <span class="separator">|</span> <a class="permalink" href="https://lynn.blogs.com/lynn_allens_blog/2015/12/happy-holidays-everyone.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://lynn.blogs.com/lynn_allens_blog/2015/12/happy-holidays-everyone.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00d83420027e53ef01b7c7fe7cad970b'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    <h2 class="date-header">November 25, 2015</h2>
+
+	<div class="entry-author-lynn_allen entry-type-post entry" id="entry-6a00d83420027e53ef01b7c7f166c2970b">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://lynn.blogs.com/lynn_allens_blog/2015/11/a-thanksgiving-tip-on-cleaning-up-your-lines-with-the-top-secret-change-command.html">A Thanksgiving Tip on Cleaning up your lines with the Top Secret CHANGE command!</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>Happy Thanksgiving to those of you in the US! &#0160;The awesome <a href="http://forums.autodesk.com/t5/autocad-2013-2014-2015-2016/webinar-precision-drafting-object-snaps-and-object-tracking/m-p/5174705/highlight/true#M56559" title="Volker Cocco">Volker Cocco </a>reminded me of this cool trick for cleaning up your lines using the good old (top secret) CHANGE command in AutoCAD. &#0160;You can go to many webinars that Volker and the Autodesk Knowledge Network team do to brush up on all your Autodesk Product skills!&#0160;</p>
+<p><a class="asset-img-link" href="https://knowledge.autodesk.com/search-result/caas/CloudHelp/cloudhelp/ENU/123112/files/what-is-an-autodesk-help-webinar-html.html" target="_blank" title="Autodesk Help Webinars"><img alt="Autodesk Help Webinars" class="asset  asset-image at-xid-6a00d83420027e53ef01b8d17b1ef4970c img-responsive" src="https://lynn.blogs.com/.a/6a00d83420027e53ef01b8d17b1ef4970c-320wi" style="display: block; margin-left: auto; margin-right: auto; border: 2px solid #000000;" title="Autodesk Help Webinars" /></a></p>
+<p>&#0160;We all end up dealing with drawings that were drawn poorly - ends don&#39;t meet or the lines are not quite orthogonal. &#0160;And you may not be aware that the CHANGE command is a handy tool that can help you fix them...Check out my latest <a href="http://www.cadalyst.com/management/clean-lines-autocads-change-command-26362">Cadalyst video</a> and add another cool tip to your repertoire! &#0160;</p>
+<p>&#0160;</p>
+<p>&#0160;</p>
+<p><iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/5HpUAU2vXdc" width="560"></iframe></p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 12:48 PM </span> <span class="separator">|</span> <a class="permalink" href="https://lynn.blogs.com/lynn_allens_blog/2015/11/a-thanksgiving-tip-on-cleaning-up-your-lines-with-the-top-secret-change-command.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://lynn.blogs.com/lynn_allens_blog/2015/11/a-thanksgiving-tip-on-cleaning-up-your-lines-with-the-top-secret-change-command.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00d83420027e53ef01b7c7f166c2970b'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    <h2 class="date-header">October 11, 2015</h2>
+
+	<div class="entry-author-lynn_allen entry-type-post entry" id="entry-6a00d83420027e53ef01b7c7dc02b3970b">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://lynn.blogs.com/lynn_allens_blog/2015/10/3-ways-to-put-a-frame-around-your-text-in-autocad.html">3 Ways to Put a Frame Around Your Text in AutoCAD</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p>It&#39;s not uncommon to need to frame various text objects in AutoCAD - why not learn all the ins and outs about doing so? &#0160;Check out my latest <a href="http://www.cadalyst.com/management/three-ways-put-frame-around-your-text-autocad-26052" target="_blank" title="Cadalyst Videos">Cadalyst Video</a> where I show you three different ways to do exactly that. &#0160; Hint: &#0160;It&#39;s easiest in AutoCAD 2016!</p>
+<p>&#0160;</p>
+<p><iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/VZXmHMXWtRU" width="560"></iframe></p>
+<p>&#0160;</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 07:45 AM </span> <span class="separator">|</span> <a class="permalink" href="https://lynn.blogs.com/lynn_allens_blog/2015/10/3-ways-to-put-a-frame-around-your-text-in-autocad.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://lynn.blogs.com/lynn_allens_blog/2015/10/3-ways-to-put-a-frame-around-your-text-in-autocad.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00d83420027e53ef01b7c7dc02b3970b'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+			<div class="pager-bottom pager-entries pager content-nav">
+		<div class="pager-inner">
+			
+			
+			<span class="pager-right">
+				<a href="https://lynn.blogs.com/lynn_allens_blog/page/2/"><span class="pager-label">Next</span>
+					<span class="chevron">&#187;</span></a>
+			</span>
+		</div>
+	</div>
+	
+	
+
+        
+
+
+
+						</div>
+					</div>
+					<div id="gamma">
+						<div id="gamma-inner" class="pkg">
+							<!-- sidebar2 -->
+
+
+<!-- archives -->
+
+	<div class="module-archives module">
+		<h2 class="module-header"><a href="https://lynn.blogs.com/lynn_allens_blog/archives.html">Archives</a></h2>
+		<div class="module-content">
+			<ul class="module-list">
+				
+					
+					<li class="module-list-item"><a href="https://lynn.blogs.com/lynn_allens_blog/2017/07/index.html">July 2017</a></li>
+				
+					
+					<li class="module-list-item"><a href="https://lynn.blogs.com/lynn_allens_blog/2017/01/index.html">January 2017</a></li>
+				
+					
+					<li class="module-list-item"><a href="https://lynn.blogs.com/lynn_allens_blog/2016/06/index.html">June 2016</a></li>
+				
+					
+					<li class="module-list-item"><a href="https://lynn.blogs.com/lynn_allens_blog/2016/04/index.html">April 2016</a></li>
+				
+					
+					<li class="module-list-item"><a href="https://lynn.blogs.com/lynn_allens_blog/2016/03/index.html">March 2016</a></li>
+				
+					
+					<li class="module-list-item"><a href="https://lynn.blogs.com/lynn_allens_blog/2016/02/index.html">February 2016</a></li>
+				
+					
+					<li class="module-list-item"><a href="https://lynn.blogs.com/lynn_allens_blog/2016/01/index.html">January 2016</a></li>
+				
+					
+					<li class="module-list-item"><a href="https://lynn.blogs.com/lynn_allens_blog/2015/12/index.html">December 2015</a></li>
+				
+					
+					<li class="module-list-item"><a href="https://lynn.blogs.com/lynn_allens_blog/2015/11/index.html">November 2015</a></li>
+				
+					
+					<li class="module-list-item"><a href="https://lynn.blogs.com/lynn_allens_blog/2015/10/index.html">October 2015</a></li>
+				
+			</ul>
+		</div>
+	</div>
+
+
+
+
+						</div>
+					</div>
+				</div>
+			</div>
+			
+
+
+<!-- container-footer -->
+<div id="footer">
+<div class="row well"><div class="col-md-12">
+	<div id="footer-inner">
+		<ul class="footer-list pkg list-inline" >
+			<li class="footer-list-item"><a href="https://lynn.blogs.com/lynn_allens_blog/">Lynn Allen's Blog</a></li>
+			<li class="last-footer-list-item footer-list-item"><a href="http://www.typepad.com/">Powered by Typepad</a></li>
+		</ul>
+	</div>
+</div></div>
+</div>
+
+		</div>
+	</div>
+	
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+<!--
+var extra_happy = Math.floor(1000000000 * Math.random());
+document.write('<img src="https://www.typepad.com/t/stats?blog_id=79409&amp;user_id=199731&amp;page=' + escape(location.href) + '&amp;referrer=' + escape(document.referrer) + '&amp;i=' + extra_happy + '" width="1" height="1" alt="" style="position: absolute; top: 0; left: 0;" />');
+// -->
+</script>
+
+
+
+<!-- Begin disqus Tag -->
+
+<!-- End disqus Tag -->
+</body>
+</html>
+
+<!-- ph=1 -->
